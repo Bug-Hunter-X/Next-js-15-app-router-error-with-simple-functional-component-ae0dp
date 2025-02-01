@@ -1,0 +1,1 @@
+This repository contains a minimal reproducible example of a bug in Next.js 15's app router. The bug is that a simple functional component in `pages/index.js` causes an error.  The solution demonstrates a workaround using a layout.
